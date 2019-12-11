@@ -1,9 +1,1 @@
-# E-phys-Spike-Counter
-# E-phys-Spike-Counter
-# E-phys-Spike-Counter
-# E-phys-Spike-Counter
-# E-phys-Spike-Counter
-# E-phys-Spike-Counter
-# E-phys-Spike-Counter
-# E-phys-Spike-Counter
-# E-phys-Spike-Counter
+Python code that filters raw ephys data above a certain voltage threshold. Code can be used to eliminate spikes that did not meet threshold (background noise) or include spikes that were above a certain threshold (action potential). Code can be adjusted to different threshholds to allow for the filtering of different intensity action potentials. 
